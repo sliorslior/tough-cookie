@@ -43,7 +43,7 @@
     "RFC6265",
     "RFC2965"
   ],
-  "version": "2.5.0",
+  "version": "2.5.0-patch",
   "homepage": "https://github.com/salesforce/tough-cookie",
   "repository": {
     "type": "git",
